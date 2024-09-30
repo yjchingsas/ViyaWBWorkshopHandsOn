@@ -1,0 +1,14 @@
+[
+    {
+        "name": "P_Status0",
+        "level": "interval",
+        "type": "decimal",
+        "length": 8
+    },
+    {
+        "name": "P_Status1",
+        "level": "interval",
+        "type": "decimal",
+        "length": 8
+    }
+]

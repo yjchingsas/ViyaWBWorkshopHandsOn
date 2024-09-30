@@ -1,0 +1,17 @@
+{
+    "name": "Scikit-LearnGradientBoost_ssayjc",
+    "description": "Scikit-learn GradientBoostingClassifier for Bank Campaign",
+    "scoreCodeType": "python",
+    "trainTable": "",
+    "trainCodeType": "Python",
+    "algorithm": "scikit-learn.GradientBoostingClassifier",
+    "function": "classification",
+    "targetVariable": "Status",
+    "targetEvent": "1",
+    "targetLevel": "Binary",
+    "eventProbVar": "P_1",
+    "modeler": "John Smith",
+    "tool": "Python 3",
+    "toolVersion": "3.11.9",
+    "properties": []
+}
