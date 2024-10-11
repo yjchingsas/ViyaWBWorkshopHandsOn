@@ -1,1 +1,3 @@
 set_git_user.sh
+artefacts/ScikitLearnGB
+artefacts/score_gboost.py
