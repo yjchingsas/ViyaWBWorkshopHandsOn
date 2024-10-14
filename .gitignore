@@ -1,3 +1,8 @@
 set_git_user.sh
-artefacts/ScikitLearnGB/*
 artefacts/score_gboost.py
+artefacts/ScikitLearnGB/ModelProperties.json
+artefacts/SCikitLearnGB/inputVar.json
+artefacts/SCikitLearnGB/outputVar.json
+artefacts/ScikitLearnGB/Scikit-LearnGradientBoost_ssayjc.zip
+artefacts/ScikitLearnGB/scikit_pipeline_gb.pkl
+artefacts/ScikitLearnGB/score_gboost.py
